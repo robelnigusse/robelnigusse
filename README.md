@@ -4,7 +4,7 @@
 
 I'm a passionate developer who builds modern, efficient, and scalable applications for web and mobile platforms.
 
-- 🌱 Always learning new frameworks and clean code practices    
+- 🌱 Always learning new frameworks and technologies    
 - 📫 Reach me through my website: [robel-nigusse.vercel.app](https://robel-nigusse.vercel.app) or via email: [robelnigusse123@gmail.com](mailto:robelnigusse123@gmail.com)
 
 
