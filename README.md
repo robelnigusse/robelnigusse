@@ -36,7 +36,7 @@ I'm a passionate developer who builds modern, efficient, and scalable applicatio
 
 <!--![Robel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robelnigusse&show_icons=true&theme=tokyonight)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robelnigusse&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robelnigusse&theme=tokyonight)](https://github.com/robelnigusse)
 
 ---
 
