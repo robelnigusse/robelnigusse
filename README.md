@@ -32,11 +32,11 @@ I'm a passionate developer who builds modern, efficient, and scalable applicatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats-->
 
 <!--![Robel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robelnigusse&show_icons=true&theme=tokyonight)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robelnigusse&theme=tokyonight)](https://github.com/robelnigusse)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robelnigusse&theme=tokyonight)](https://github.com/robelnigusse)-->
 
 ---
 
